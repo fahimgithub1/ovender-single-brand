@@ -1,0 +1,61 @@
+
+(26-03-23):
+===========
+#cart:
+1) add to cart
+
+#wish list:
+3) show wish list
+
+#order Process:
+1) add New address
+2) select existing address
+
+#customer profile:
+1) addres add to customer profile
+
+(27-03-23):
+===========
+#laptop nav dropdown daynamic
+#order Process:
+4) select shiping method
+
+#wish list:
+1) add to wish
+2) delete from wish
+
+#cart:
+2) delete from cart
+
+(29-03-23):
+===========
+#Nav(29-03-23)
+#Forgot password sent email
+#registation issus
+
+(01-04-23):
+===========
+#Update Account Info
+#cart:
+3) update cart
+
+(03-04-23):
+===========
+#Activate Search in top navigation bar
+
+(04-04-23):
+===========
+#Catagoris isses
+1) fixed price filter.
+2) filter accoding 3 terms.
+
+
+(nodadline):
+===========
+#order Process:
+5) payment method
+6) save order by API
+
+#customer profile:
+1) addres add to customer profile
+2) update address

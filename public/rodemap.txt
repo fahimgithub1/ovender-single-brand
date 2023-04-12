@@ -1,0 +1,46 @@
+Main Point
+============
+    1)home page=> (done Fahim)
+        .nav (done) (Fahim)
+        .footer (done) (Fahim)
+        .shopingType (done) (Fahim)
+        .banner (done) (Fahim)
+        .flash sall (done) (Fahim)
+        .catagoris (done) (Fahim)
+        .oven mall (done) (Fahim)
+        .most poruler (done) (Fahim)
+        .Daily Discover (done) (Fahim)
+
+    2)product single page (done Fahim)
+        .product area
+        .product datails
+        .product review
+        .shop daitelsw
+        .related product dote
+        
+    4)flash sell (done Fahim)
+    5)Rewards And Gift (done Fahim)
+    6)chart, wish page (done Fahim)
+    8)login (done Fahim)
+    9)blog (done Fahim)
+    10**)User Profile(done Fahim)
+
+    3)catagori page (done Fahim)
+    7)contact us (done Fahim)
+    
+others
+===========
+    How to Shop (done Fahim)
+    Returns and Refunds (done Fahim)
+    About Ovenar (pervise vhai)
+    Terms & Conditions (done Fahim)
+    Privacy Policy (done Fahim)
+
+************************
+========================
+ == need to fixed ==
+ 1) responsive(think ok)
+ 2) product zoom in out(running)
+ 3) redux setups(next)
+ 4) RTK quary
+
