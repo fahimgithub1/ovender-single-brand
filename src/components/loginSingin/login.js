@@ -34,7 +34,7 @@ export default function Login(props) {
       .then((response) => {
         const token = response.token;
 
-        // localStorage.setItem("token", token);
+        localStorage.setItem("token", token);
         Cookies.set('authToken', token);
 
         dispatch(setToken({ token }));
